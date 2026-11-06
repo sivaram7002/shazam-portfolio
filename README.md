@@ -61,22 +61,13 @@ Then visit `http://localhost:8000` in your browser.
 
 ---
 
-## 🌐 Deploy to GitHub Pages (Free)
+## 🌐 Live Website (GitHub Pages)
 
-1. Push this repository to GitHub:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit of Shazam Cybernetic Portfolio"
-   git branch -M main
-   git remote add origin https://github.com/<your-username>/<your-repo-name>.git
-   git push -u origin main
-   ```
-2. In your GitHub repository:
-   * Go to **Settings** > **Pages**.
-   * Under **Build and deployment** > **Branch**, select `main` and root `/`.
-   * Click **Save**.
-3. Your portfolio will be live at `https://<your-username>.github.io/<your-repo-name>/`!
+Your portfolio is live and accessible at:
+👉 **[https://sivaram7002.github.io/shazam-portfolio/](https://sivaram7002.github.io/shazam-portfolio/)**
+
+* **GitHub Repository**: [https://github.com/sivaram7002/shazam-portfolio](https://github.com/sivaram7002/shazam-portfolio)
+* **Branch**: `main` (deployed via GitHub Pages)
 
 ---
 
